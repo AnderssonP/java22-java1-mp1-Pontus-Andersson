@@ -6,8 +6,7 @@ public class miniprojekt {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//		String test = "hej";
-//		System.out.println(test=="hej");
+
 
 		Scanner sc = new Scanner(System.in);
 		while (true) {
